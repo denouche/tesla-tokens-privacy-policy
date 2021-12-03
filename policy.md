@@ -2,7 +2,7 @@
  
 Welcome to Tesla Tokens!
 
-Tesla Tokens is free of charge. In some cases we show ads within the app. The appearance of ads can be switched of using an in-app-purchase if applicable.
+Tesla Tokens is free of charge. In some cases we show ads within the app. The appearance of ads can be switched off using an in-app-purchase if applicable.
 
 
 In this Privacy Policy, we inform you about what personal data we collect and for which purposes your data is used.
